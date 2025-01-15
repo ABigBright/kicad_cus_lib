@@ -79,15 +79,15 @@
 		(uuid "3f0955c0-b9bf-4669-ba16-dd1794572ae6")
 	)
 	(fp_rect
-		(start -5 -1)
-		(end 5 6.5)
+		(start -5.5 -1.5)
+		(end 5.5 6.5)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(fill none)
-		(layer "Edge.Cuts")
-		(uuid "907edcbe-c83d-4087-b16b-b5c7aa2ba354")
+		(layer "F.CrtYd")
+		(uuid "7063e8b7-bfd9-469c-98e9-b4fff6edaae4")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 -5.5 0)
